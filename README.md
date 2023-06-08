@@ -2,7 +2,7 @@
   <img alt="CLI demo" src="./demos/cli.gif">
 </p>
 
-## Updates
+## Updates 
 <details open>
 <summary><strong>2023-03-01</strong></summary>
 
